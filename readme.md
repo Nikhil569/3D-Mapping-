@@ -38,3 +38,17 @@ A 3D map is being created as shown in figures
 ![alt text](/images/implement2.png)
 
 But some problems arises in autonomous localization. Also complete kinect capablities of depth sensing hasn't been harnessed. These things can be looked upon for future improvements of this project.
+
+# Team
+## Members
+Aayush Singh Chauhan
+Kalp Garg
+Rahul Finavia
+Sachin Chopra
+Samarth Naik
+Shikhar Bhargava
+
+## Mentors
+Bhaskar Kaushik
+Shivam Maloo
+
