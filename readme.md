@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Abstract
 Our idea is to implement a robot which can perform SLAM (Simultaneous Localization and Mapping) autonomously in any surrounding. This automated bot can be deployed in various situations which are risky for humans such as in remote survelliance, etc. 
 
@@ -38,7 +37,4 @@ A 3D map is being created as shown in figures
 ![alt text](/images/implementation1.png)
 ![alt text](/images/implementation2.png)
 
-But some problems arises in autonomous localization. Also complete kinect capablities of depth sensing hasn't been harnessed. These things can be looked upon for future improvements of this project. 
-=======
-# 3D-Mapping-
->>>>>>> b19a500c40b76f4ca194b23b568e5e6033bbffb6
+But some problems arises in autonomous localization. Also complete kinect capablities of depth sensing hasn't been harnessed. These things can be looked upon for future improvements of this project.
