@@ -4,7 +4,7 @@ Our idea is to implement a robot which can perform SLAM (Simultaneous Localizati
 # Pre-requisite and Software Used
 This whole work is being developed in ROS(Robot Operating System). It is being chosen due to its simple usage to implement various different components and pacjkages used for robot  building and to integrate them easily. To get basic ROS usage guidelines, refer this link: [ROS Documentaion](http://wiki.ros.org/) </br>
 For kinect related installation of libraries and its working in Ubuntu, refer this link: [Libfreenect2](https://github.com/OpenKinect/libfreenect2) </br>
-For learning more about ROS tools and its functionalties, I found this [book](pdfs/Mastering ROS for Robotics Programming.pdf) useful. </br>
+For learning more about ROS tools and its functionalties, I found the book titled "Mastering ROS for robotics programming" quite useful. Here's the [link](https://github.com/qboticslabs/mastering_ros) for the book. </br>
 Additionally, [rtabmap_ros](http://wiki.ros.org/rtabmap_ros/Tutorials/HandHeldMapping) generates real time 3D map using kinect and a GUI is being opened to view the map with some additional features. </br>
 Create a new pacakge named rtabmap_ros inside your catkin workspace as stated in this [page](https://github.com/introlab/rtabmap_ros)
 
