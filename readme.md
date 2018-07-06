@@ -41,6 +41,7 @@ But some problems arises in autonomous localization. Also complete kinect capabl
 
 # Team
 ## Members
+* Aayush Singh Chauhan
 * Kalp Garg
 * Rahul Finavia
 * Sachin Chopra
