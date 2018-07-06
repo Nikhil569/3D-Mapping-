@@ -7,7 +7,9 @@ This whole work is being developed in ROS(Robot Operating System). It is being c
 For kinect related installation of libraries and its working in Ubuntu, refer this link: [Libfreenect2](https://github.com/OpenKinect/libfreenect2).
 
 For learning more about ROS tools and its functionalties, I found the book titled "Mastering ROS for robotics programming" quite useful. Here's the [link](https://github.com/qboticslabs/mastering_ros) for the book.
+
 Additionally, [rtabmap_ros](http://wiki.ros.org/rtabmap_ros/Tutorials/HandHeldMapping) generates real time 3D map using kinect and a GUI is being opened to view the map with some additional features.
+
 Create a new pacakge named rtabmap_ros inside your catkin workspace as stated in this [page](https://github.com/introlab/rtabmap_ros)
 
 # Hardware and Electronics Used
