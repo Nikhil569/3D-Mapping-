@@ -2,10 +2,10 @@
 Our idea is to implement a robot which can perform SLAM (Simultaneous Localization and Mapping) autonomously in any surrounding. This automated bot can be deployed in various situations which are risky for humans such as in remote survelliance, etc. 
 
 # Pre-requisite and Software Used
-This whole work is being developed in ROS(Robot Operating System). It is being chosen due to its simple usage to implement various different components and pacjkages used for robot  building and to integrate them easily. To get basic ROS usage guidelines, refer this link: [ROS Documentaion](http://wiki.ros.org/) </br>
-For kinect related installation of libraries and its working in Ubuntu, refer this link: [Libfreenect2](https://github.com/OpenKinect/libfreenect2) </br>
+This whole work is being developed in ROS(Robot Operating System). It is being chosen due to its simple usage to implement various different components and pacjkages used for robot  building and to integrate them easily. To get basic ROS usage guidelines, refer this link: [ROS Documentaion](http://wiki.ros.org/)
+For kinect related installation of libraries and its working in Ubuntu, refer this link: [Libfreenect2](https://github.com/OpenKinect/libfreenect2)
 For learning more about ROS tools and its functionalties, I found the book titled "Mastering ROS for robotics programming" quite useful. Here's the [link](https://github.com/qboticslabs/mastering_ros) for the book. </br>
-Additionally, [rtabmap_ros](http://wiki.ros.org/rtabmap_ros/Tutorials/HandHeldMapping) generates real time 3D map using kinect and a GUI is being opened to view the map with some additional features. </br>
+Additionally, [rtabmap_ros](http://wiki.ros.org/rtabmap_ros/Tutorials/HandHeldMapping) generates real time 3D map using kinect and a GUI is being opened to view the map with some additional features.
 Create a new pacakge named rtabmap_ros inside your catkin workspace as stated in this [page](https://github.com/introlab/rtabmap_ros)
 
 # Hardware and Electronics Used
@@ -41,14 +41,13 @@ But some problems arises in autonomous localization. Also complete kinect capabl
 
 # Team
 ## Members
-Aayush Singh Chauhan
-Kalp Garg
-Rahul Finavia
-Sachin Chopra
-Samarth Naik
-Shikhar Bhargava
+* Kalp Garg
+* Rahul Finavia
+* Sachin Chopra
+* Samarth Naik
+* Shikhar Bhargava
 
 ## Mentors
-Bhaskar Kaushik
-Shivam Maloo
+* Bhaskar Kaushik
+* Shivam Maloo
 
